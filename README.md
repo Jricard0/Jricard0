@@ -9,7 +9,7 @@
 - 📖 Writing short dev stories
 - 💬 Ping me about **cloud**, **Docker**, **Tech**, **development**, **microservices**
 - 📫 Reach me: [twitter.com/xjricard](https://twitter.com/xjricard)
-- ⚡️ Fun fact: Messi and I breathe same air
+- ⚡️ Fun fact: Messi and I breathe the same air
 
 <div>
   <a href="https://github.com/Jricard0">
